@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lucacsx
+- 👀 I’m interested in Android Develope
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me lucacsx@gmail.com
